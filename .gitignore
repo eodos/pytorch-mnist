@@ -1,0 +1,8 @@
+# MNIST dataset
+data
+
+# Tensorboard logs
+runs
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
