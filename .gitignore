@@ -1,8 +1,8 @@
 # MNIST dataset
 data
 
-# Tensorboard logs
-runs
+# PyTorch models
+*.t7
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
